@@ -2,7 +2,7 @@
 
 /**
 * _getline - read one line from the prompt.
-* @data: struct for the program's data
+* @data: struct for the program's data.
 *
 * Return: reading counting bytes.
 */
@@ -49,7 +49,6 @@ int _getline(data_of_program *data)
 
 	return (str_length(data->input_line));
 }
-
 
 /**
 * check_logic_ops - checks and split for && and || operators
