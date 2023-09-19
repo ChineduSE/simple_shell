@@ -28,7 +28,7 @@
  * @file_descriptor: file descriptor to the input of commands
  * @tokens: pointer to array of tokenized input
  * @env: copy of the environ
- * @alias_list: array of pointers with aliases.
+ * @alias_list: array of pointers with aliases
  */
 typedef struct info
 {
