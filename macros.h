@@ -1,7 +1,7 @@
 #ifndef HELPERS_H
 #define HELPERS_H
 
-/* Prompt to be printed */
+/* Prompt to be printed. */
 #define PROMPT_MSG "$" /* Needed to work with signal */
 
 /* Resume from the unused attibute */
